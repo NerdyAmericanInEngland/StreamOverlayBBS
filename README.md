@@ -17,3 +17,4 @@ It's a little buggy and needs some tweaking, but is nearly there.
 If anyone can come up with a way to pole the page, I would be much apreciated.
 
 Check out our Game release Balium on steam, and Enjoy the overlay.
+https://store.steampowered.com/app/2396770/Balium/
