@@ -1,0 +1,19 @@
+0,E:\CSharp\bbsOverlay\BreadBoardOverlay_v1\gifs\bitch what!.gif,E:\CSharp\bbsOverlay\BreadBoardOverlay_v1\audio\bitch what.wav,1,0,1
+1,E:\CSharp\bbsOverlay\BreadBoardOverlay_v1\gifs\break my foot off in ya ass!!!!.gif,E:\CSharp\bbsOverlay\BreadBoardOverlay_v1\audio\break my foot off in your ass.wav,2,0,2
+2,E:\CSharp\bbsOverlay\BreadBoardOverlay_v1\gifs\bug sqashing.gif,E:\CSharp\bbsOverlay\BreadBoardOverlay_v1\audio\BugSquish.wav,3,0,2
+3,E:\CSharp\bbsOverlay\BreadBoardOverlay_v1\gifs\codeWorking.gif,E:\CSharp\bbsOverlay\BreadBoardOverlay_v1\audio\cheesey techno.wav,5,0,3
+4,E:\CSharp\bbsOverlay\BreadBoardOverlay_v1\gifs\confused.gif,E:\CSharp\bbsOverlay\BreadBoardOverlay_v1\audio\confused.wav,6,0,1
+5,E:\CSharp\bbsOverlay\BreadBoardOverlay_v1\gifs\confused2.gif,E:\CSharp\bbsOverlay\BreadBoardOverlay_v1\audio\confused2_kazooo.wav,7,0,10
+6,E:\CSharp\bbsOverlay\BreadBoardOverlay_v1\gifs\creepy kid dance.gif,E:\CSharp\bbsOverlay\BreadBoardOverlay_v1\audio\cheesey techno.wav,8,0,4
+7,E:\CSharp\bbsOverlay\BreadBoardOverlay_v1\gifs\happy happy joy joy.gif,E:\CSharp\bbsOverlay\BreadBoardOverlay_v1\audio\happy happy joy joy.wav,9,0,24
+8,E:\CSharp\bbsOverlay\BreadBoardOverlay_v1\gifs\imlearnding.gif,E:\CSharp\bbsOverlay\BreadBoardOverlay_v1\audio\imlearnding.wav,11,0,5
+9,E:\CSharp\bbsOverlay\BreadBoardOverlay_v1\gifs\shut down!!!.gif,E:\CSharp\bbsOverlay\BreadBoardOverlay_v1\audio\hell to the naw.wav,12,0,1
+10,E:\CSharp\bbsOverlay\BreadBoardOverlay_v1\gifs\live news dance kid.gif,E:\CSharp\bbsOverlay\BreadBoardOverlay_v1\audio\cheesey techno.wav,13,0,3
+11,E:\CSharp\bbsOverlay\BreadBoardOverlay_v1\gifs\old creepy raver.gif,E:\CSharp\bbsOverlay\BreadBoardOverlay_v1\audio\cheesey techno.wav,-1,0,5
+12,E:\CSharp\bbsOverlay\BreadBoardOverlay_v1\gifs\oldPeople.gif,E:\CSharp\bbsOverlay\BreadBoardOverlay_v1\audio\oldladylaughing.wav,-1,0,3
+13,E:\CSharp\bbsOverlay\BreadBoardOverlay_v1\gifs\Ren and stimpy red button.gif,E:\CSharp\bbsOverlay\BreadBoardOverlay_v1\audio\red button ren laugh.wav,-1,0,1
+14,E:\CSharp\bbsOverlay\BreadBoardOverlay_v1\gifs\shaq-shimmy.gif,E:\CSharp\bbsOverlay\BreadBoardOverlay_v1\audio\mmhmm.wav,-1,0,2
+15,E:\CSharp\bbsOverlay\BreadBoardOverlay_v1\gifs\when life gets hard!!!.gif,E:\CSharp\bbsOverlay\BreadBoardOverlay_v1\audio\samson_hahaha.wav,14,0,2
+16,E:\CSharp\bbsOverlay\BreadBoardOverlay_v1\gifs\bush fool me once.gif,E:\CSharp\bbsOverlay\BreadBoardOverlay_v1\audio\bush fool me once.wav,-1,0,1
+17,E:\CSharp\bbsOverlay\BreadBoardOverlay_v1\gifs\friends are assholes!!.gif,E:\CSharp\bbsOverlay\BreadBoardOverlay_v1\audio\friends are assholes.wav,-1,0,3
+18,E:\CSharp\bbsOverlay\BreadBoardOverlay_v1\gifs\what the actual fuck!.gif,E:\CSharp\bbsOverlay\BreadBoardOverlay_v1\audio\FUCK YOU I'M OUT.wav,-1,0,2

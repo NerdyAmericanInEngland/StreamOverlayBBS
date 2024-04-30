@@ -1,0 +1,129 @@
+C:\Users\kamer\RiderProjects\BreadBoardOverlay_v1\BreadBoardOverlay_v1\bin\Debug\BreadBoardOverlay_v1.exe.config
+C:\Users\kamer\RiderProjects\BreadBoardOverlay_v1\BreadBoardOverlay_v1\bin\Debug\BreadBoardOverlay_v1.exe
+C:\Users\kamer\RiderProjects\BreadBoardOverlay_v1\BreadBoardOverlay_v1\bin\Debug\BreadBoardOverlay_v1.pdb
+C:\Users\kamer\RiderProjects\BreadBoardOverlay_v1\BreadBoardOverlay_v1\obj\Debug\BreadBoardOverlay_v1.csproj.AssemblyReference.cache
+C:\Users\kamer\RiderProjects\BreadBoardOverlay_v1\BreadBoardOverlay_v1\obj\Debug\BreadBoardOverlay_v1.csproj.SuggestedBindingRedirects.cache
+C:\Users\kamer\RiderProjects\BreadBoardOverlay_v1\BreadBoardOverlay_v1\obj\Debug\BreadBoardOverlay_v1.Properties.Resources.resources
+C:\Users\kamer\RiderProjects\BreadBoardOverlay_v1\BreadBoardOverlay_v1\obj\Debug\BreadBoardOverlay_v1.csproj.GenerateResource.cache
+C:\Users\kamer\RiderProjects\BreadBoardOverlay_v1\BreadBoardOverlay_v1\obj\Debug\BreadBoardOverlay_v1.csproj.CoreCompileInputs.cache
+C:\Users\kamer\RiderProjects\BreadBoardOverlay_v1\BreadBoardOverlay_v1\obj\Debug\BreadBoardOverlay_v1.exe
+C:\Users\kamer\RiderProjects\BreadBoardOverlay_v1\BreadBoardOverlay_v1\obj\Debug\BreadBoardOverlay_v1.pdb
+C:\Users\kamer\RiderProjects\BreadBoardOverlay_v1\BreadBoardOverlay_v1\obj\Debug\BreadBoardOverlay_v1.Form1.resources
+D:\Locker\Locker\c# code\BreadBoardOverlay_v1\BreadBoardOverlay_v1\bin\Debug\BreadBoardOverlay_v1.exe.config
+D:\Locker\Locker\c# code\BreadBoardOverlay_v1\BreadBoardOverlay_v1\bin\Debug\BreadBoardOverlay_v1.exe
+D:\Locker\Locker\c# code\BreadBoardOverlay_v1\BreadBoardOverlay_v1\bin\Debug\BreadBoardOverlay_v1.pdb
+D:\Locker\Locker\c# code\BreadBoardOverlay_v1\BreadBoardOverlay_v1\obj\Debug\BreadBoardOverlay_v1.csproj.AssemblyReference.cache
+D:\Locker\Locker\c# code\BreadBoardOverlay_v1\BreadBoardOverlay_v1\obj\Debug\BreadBoardOverlay_v1.csproj.SuggestedBindingRedirects.cache
+D:\Locker\Locker\c# code\BreadBoardOverlay_v1\BreadBoardOverlay_v1\obj\Debug\BreadBoardOverlay_v1.Properties.Resources.resources
+D:\Locker\Locker\c# code\BreadBoardOverlay_v1\BreadBoardOverlay_v1\obj\Debug\BreadBoardOverlay_v1.csproj.GenerateResource.cache
+D:\Locker\Locker\c# code\BreadBoardOverlay_v1\BreadBoardOverlay_v1\obj\Debug\BreadBoardOverlay_v1.csproj.CoreCompileInputs.cache
+D:\Locker\Locker\c# code\BreadBoardOverlay_v1\BreadBoardOverlay_v1\obj\Debug\BreadBoardOverlay_v1.exe
+D:\Locker\Locker\c# code\BreadBoardOverlay_v1\BreadBoardOverlay_v1\obj\Debug\BreadBoardOverlay_v1.pdb
+D:\Locker\Locker\c# code\BreadBoardOverlay_v1\BreadBoardOverlay_v1\obj\Debug\BreadBoardOverlay_v1.mainWindow.resources
+D:\Locker\Locker\c# code\BreadBoardOverlay_v1\BreadBoardOverlay_v1\obj\Debug\BreadBoardOverlay_v1.ControllerWindow.resources
+D:\locker\Locker\csharp_code\bbs_overlay\BreadBoardOverlay_v1\bin\Debug\BreadBoardOverlay_v1.exe.config
+D:\locker\Locker\csharp_code\bbs_overlay\BreadBoardOverlay_v1\bin\Debug\BreadBoardOverlay_v1.exe
+D:\locker\Locker\csharp_code\bbs_overlay\BreadBoardOverlay_v1\bin\Debug\BreadBoardOverlay_v1.pdb
+D:\locker\Locker\csharp_code\bbs_overlay\BreadBoardOverlay_v1\obj\Debug\BreadBoardOverlay_v1.csproj.AssemblyReference.cache
+D:\locker\Locker\csharp_code\bbs_overlay\BreadBoardOverlay_v1\obj\Debug\BreadBoardOverlay_v1.csproj.SuggestedBindingRedirects.cache
+D:\locker\Locker\csharp_code\bbs_overlay\BreadBoardOverlay_v1\obj\Debug\BreadBoardOverlay_v1.ControllerWindow.resources
+D:\locker\Locker\csharp_code\bbs_overlay\BreadBoardOverlay_v1\obj\Debug\BreadBoardOverlay_v1.mainWindow.resources
+D:\locker\Locker\csharp_code\bbs_overlay\BreadBoardOverlay_v1\obj\Debug\BreadBoardOverlay_v1.Properties.Resources.resources
+D:\locker\Locker\csharp_code\bbs_overlay\BreadBoardOverlay_v1\obj\Debug\BreadBoardOverlay_v1.csproj.GenerateResource.cache
+D:\locker\Locker\csharp_code\bbs_overlay\BreadBoardOverlay_v1\obj\Debug\BreadBoardOverlay_v1.csproj.CoreCompileInputs.cache
+D:\locker\Locker\csharp_code\bbs_overlay\BreadBoardOverlay_v1\obj\Debug\BreadBoardOverlay_v1.exe
+D:\locker\Locker\csharp_code\bbs_overlay\BreadBoardOverlay_v1\obj\Debug\BreadBoardOverlay_v1.pdb
+D:\locker\Locker\csharp_code\bbs_overlay Local\BreadBoardOverlay_v1\bin\Debug\BreadBoardOverlay_v1.exe.config
+D:\locker\Locker\csharp_code\bbs_overlay Local\BreadBoardOverlay_v1\bin\Debug\BreadBoardOverlay_v1.exe
+D:\locker\Locker\csharp_code\bbs_overlay Local\BreadBoardOverlay_v1\bin\Debug\BreadBoardOverlay_v1.pdb
+D:\locker\Locker\csharp_code\bbs_overlay Local\BreadBoardOverlay_v1\obj\Debug\BreadBoardOverlay_v1.csproj.AssemblyReference.cache
+D:\locker\Locker\csharp_code\bbs_overlay Local\BreadBoardOverlay_v1\obj\Debug\BreadBoardOverlay_v1.csproj.SuggestedBindingRedirects.cache
+D:\locker\Locker\csharp_code\bbs_overlay Local\BreadBoardOverlay_v1\obj\Debug\BreadBoardOverlay_v1.ControllerWindow.resources
+D:\locker\Locker\csharp_code\bbs_overlay Local\BreadBoardOverlay_v1\obj\Debug\BreadBoardOverlay_v1.mainWindow.resources
+D:\locker\Locker\csharp_code\bbs_overlay Local\BreadBoardOverlay_v1\obj\Debug\BreadBoardOverlay_v1.Properties.Resources.resources
+D:\locker\Locker\csharp_code\bbs_overlay Local\BreadBoardOverlay_v1\obj\Debug\BreadBoardOverlay_v1.csproj.GenerateResource.cache
+D:\locker\Locker\csharp_code\bbs_overlay Local\BreadBoardOverlay_v1\obj\Debug\BreadBoardOverlay_v1.csproj.CoreCompileInputs.cache
+D:\locker\Locker\csharp_code\bbs_overlay Local\BreadBoardOverlay_v1\obj\Debug\BreadBoardOverlay_v1.exe
+D:\locker\Locker\csharp_code\bbs_overlay Local\BreadBoardOverlay_v1\obj\Debug\BreadBoardOverlay_v1.pdb
+D:\csharpCode\bbsOverlayLocal\BreadBoardOverlay_v1\bin\Debug\BreadBoardOverlay_v1.exe.config
+D:\csharpCode\bbsOverlayLocal\BreadBoardOverlay_v1\bin\Debug\BreadBoardOverlay_v1.exe
+D:\csharpCode\bbsOverlayLocal\BreadBoardOverlay_v1\bin\Debug\BreadBoardOverlay_v1.pdb
+D:\csharpCode\bbsOverlayLocal\BreadBoardOverlay_v1\obj\Debug\BreadBoardOverlay_v1.ControllerWindow.resources
+D:\csharpCode\bbsOverlayLocal\BreadBoardOverlay_v1\obj\Debug\BreadBoardOverlay_v1.mainWindow.resources
+D:\csharpCode\bbsOverlayLocal\BreadBoardOverlay_v1\obj\Debug\BreadBoardOverlay_v1.Properties.Resources.resources
+D:\csharpCode\bbsOverlayLocal\BreadBoardOverlay_v1\obj\Debug\BreadBoardOverlay_v1.csproj.GenerateResource.cache
+D:\csharpCode\bbsOverlayLocal\BreadBoardOverlay_v1\obj\Debug\BreadBoardOverlay_v1.exe
+D:\csharpCode\bbsOverlayLocal\BreadBoardOverlay_v1\obj\Debug\BreadBoardOverlay_v1.pdb
+E:\CSharp\bbsOverlayLocal\BreadBoardOverlay_v1\obj\Debug\BreadBoardOverlay_v1.exe
+E:\CSharp\bbsOverlayLocal\BreadBoardOverlay_v1\obj\Debug\BreadBoardOverlay_v1.pdb
+E:\CSharp\bbsOverlayLocal\BreadBoardOverlay_v1\bin\Debug\BreadBoardOverlay_v1.exe.config
+E:\CSharp\bbsOverlayLocal\BreadBoardOverlay_v1\bin\Debug\BreadBoardOverlay_v1.exe
+E:\CSharp\bbsOverlayLocal\BreadBoardOverlay_v1\bin\Debug\BreadBoardOverlay_v1.pdb
+E:\CSharp\bbsOverlayLocal\BreadBoardOverlay_v1\obj\Debug\BreadBoardOverlay_v1.csproj.AssemblyReference.cache
+E:\CSharp\bbsOverlayLocal\BreadBoardOverlay_v1\obj\Debug\BreadBoardOverlay_v1.csproj.SuggestedBindingRedirects.cache
+E:\CSharp\bbsOverlayLocal\BreadBoardOverlay_v1\obj\Debug\BreadBoardOverlay_v1.ControllerWindow.resources
+E:\CSharp\bbsOverlayLocal\BreadBoardOverlay_v1\obj\Debug\BreadBoardOverlay_v1.mainWindow.resources
+E:\CSharp\bbsOverlayLocal\BreadBoardOverlay_v1\obj\Debug\BreadBoardOverlay_v1.Properties.Resources.resources
+E:\CSharp\bbsOverlayLocal\BreadBoardOverlay_v1\obj\Debug\BreadBoardOverlay_v1.csproj.GenerateResource.cache
+E:\CSharp\bbsOverlayLocal\BreadBoardOverlay_v1\obj\Debug\BreadBoardOverlay_v1.csproj.CoreCompileInputs.cache
+E:\CSharp\bbsOverlay\BreadBoardOverlay_v1\bin\Debug\BreadBoardOverlay_v1.exe.config
+E:\CSharp\bbsOverlay\BreadBoardOverlay_v1\bin\Debug\BreadBoardOverlay_v1.exe
+E:\CSharp\bbsOverlay\BreadBoardOverlay_v1\bin\Debug\BreadBoardOverlay_v1.pdb
+E:\CSharp\bbsOverlay\BreadBoardOverlay_v1\obj\Debug\BreadBoardOverlay_v1.ControllerWindow.resources
+E:\CSharp\bbsOverlay\BreadBoardOverlay_v1\obj\Debug\BreadBoardOverlay_v1.mainWindow.resources
+E:\CSharp\bbsOverlay\BreadBoardOverlay_v1\obj\Debug\BreadBoardOverlay_v1.Properties.Resources.resources
+E:\CSharp\bbsOverlay\BreadBoardOverlay_v1\obj\Debug\BreadBoardOverlay_v1.csproj.GenerateResource.cache
+E:\CSharp\bbsOverlay\BreadBoardOverlay_v1\obj\Debug\BreadBoardOverlay_v1.exe
+E:\CSharp\bbsOverlay\BreadBoardOverlay_v1\obj\Debug\BreadBoardOverlay_v1.pdb
+E:\CSharp\bbsOverlay\BreadBoardOverlay_v1\bin\Debug\Newtonsoft.Json.dll
+E:\CSharp\bbsOverlay\BreadBoardOverlay_v1\bin\Debug\streamdeck-client-csharp.dll
+E:\CSharp\bbsOverlay\BreadBoardOverlay_v1\bin\Debug\System.Drawing.Common.dll
+E:\CSharp\bbsOverlay\BreadBoardOverlay_v1\bin\Debug\Newtonsoft.Json.xml
+E:\CSharp\bbsOverlay\BreadBoardOverlay_v1\bin\Debug\HidSharp.dll
+E:\CSharp\bbsOverlay\BreadBoardOverlay_v1\bin\Debug\OpenMacroBoard.SDK.dll
+E:\CSharp\bbsOverlay\BreadBoardOverlay_v1\bin\Debug\SixLabors.ImageSharp.dll
+E:\CSharp\bbsOverlay\BreadBoardOverlay_v1\bin\Debug\StreamDeckSharp.dll
+E:\CSharp\bbsOverlay\BreadBoardOverlay_v1\bin\Debug\System.Buffers.dll
+E:\CSharp\bbsOverlay\BreadBoardOverlay_v1\bin\Debug\System.Memory.dll
+E:\CSharp\bbsOverlay\BreadBoardOverlay_v1\bin\Debug\System.Numerics.Vectors.dll
+E:\CSharp\bbsOverlay\BreadBoardOverlay_v1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\CSharp\bbsOverlay\BreadBoardOverlay_v1\bin\Debug\System.Text.Encoding.CodePages.dll
+E:\CSharp\bbsOverlay\BreadBoardOverlay_v1\bin\Debug\HidSharp.pdb
+E:\CSharp\bbsOverlay\BreadBoardOverlay_v1\bin\Debug\HidSharp.xml
+E:\CSharp\bbsOverlay\BreadBoardOverlay_v1\bin\Debug\OpenMacroBoard.SDK.xml
+E:\CSharp\bbsOverlay\BreadBoardOverlay_v1\bin\Debug\SixLabors.ImageSharp.xml
+E:\CSharp\bbsOverlay\BreadBoardOverlay_v1\bin\Debug\StreamDeckSharp.xml
+E:\CSharp\bbsOverlay\BreadBoardOverlay_v1\bin\Debug\System.Buffers.xml
+E:\CSharp\bbsOverlay\BreadBoardOverlay_v1\bin\Debug\System.Memory.xml
+E:\CSharp\bbsOverlay\BreadBoardOverlay_v1\bin\Debug\System.Numerics.Vectors.xml
+E:\CSharp\bbsOverlay\BreadBoardOverlay_v1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\CSharp\bbsOverlay\BreadBoardOverlay_v1\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\csharpCode\bbsOverlayLocal\BreadBoardOverlay_v1\bin\Debug\HidSharp.dll
+D:\csharpCode\bbsOverlayLocal\BreadBoardOverlay_v1\bin\Debug\OpenMacroBoard.SDK.dll
+D:\csharpCode\bbsOverlayLocal\BreadBoardOverlay_v1\bin\Debug\SixLabors.ImageSharp.dll
+D:\csharpCode\bbsOverlayLocal\BreadBoardOverlay_v1\bin\Debug\streamdeck-client-csharp.dll
+D:\csharpCode\bbsOverlayLocal\BreadBoardOverlay_v1\bin\Debug\StreamDeckSharp.dll
+D:\csharpCode\bbsOverlayLocal\BreadBoardOverlay_v1\bin\Debug\System.Buffers.dll
+D:\csharpCode\bbsOverlayLocal\BreadBoardOverlay_v1\bin\Debug\System.Drawing.Common.dll
+D:\csharpCode\bbsOverlayLocal\BreadBoardOverlay_v1\bin\Debug\System.Memory.dll
+D:\csharpCode\bbsOverlayLocal\BreadBoardOverlay_v1\bin\Debug\System.Numerics.Vectors.dll
+D:\csharpCode\bbsOverlayLocal\BreadBoardOverlay_v1\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\csharpCode\bbsOverlayLocal\BreadBoardOverlay_v1\bin\Debug\System.Runtime.dll
+D:\csharpCode\bbsOverlayLocal\BreadBoardOverlay_v1\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\csharpCode\bbsOverlayLocal\BreadBoardOverlay_v1\bin\Debug\System.ValueTuple.dll
+D:\csharpCode\bbsOverlayLocal\BreadBoardOverlay_v1\bin\Debug\Newtonsoft.Json.dll
+D:\csharpCode\bbsOverlayLocal\BreadBoardOverlay_v1\bin\Debug\HidSharp.pdb
+D:\csharpCode\bbsOverlayLocal\BreadBoardOverlay_v1\bin\Debug\HidSharp.xml
+D:\csharpCode\bbsOverlayLocal\BreadBoardOverlay_v1\bin\Debug\OpenMacroBoard.SDK.xml
+D:\csharpCode\bbsOverlayLocal\BreadBoardOverlay_v1\bin\Debug\SixLabors.ImageSharp.xml
+D:\csharpCode\bbsOverlayLocal\BreadBoardOverlay_v1\bin\Debug\StreamDeckSharp.xml
+D:\csharpCode\bbsOverlayLocal\BreadBoardOverlay_v1\bin\Debug\System.Buffers.xml
+D:\csharpCode\bbsOverlayLocal\BreadBoardOverlay_v1\bin\Debug\System.Memory.xml
+D:\csharpCode\bbsOverlayLocal\BreadBoardOverlay_v1\bin\Debug\System.Numerics.Vectors.xml
+D:\csharpCode\bbsOverlayLocal\BreadBoardOverlay_v1\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\csharpCode\bbsOverlayLocal\BreadBoardOverlay_v1\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\csharpCode\bbsOverlayLocal\BreadBoardOverlay_v1\bin\Debug\Newtonsoft.Json.xml
+D:\csharpCode\bbsOverlayLocal\BreadBoardOverlay_v1\obj\Debug\BreadBoardOverlay_v1.csprojResolveAssemblyReference.cache
+E:\CSharp\bbsOverlay\BreadBoardOverlay_v1\obj\Debug\BreadBoardOverlay_v1.csproj.AssemblyReference.cache
+E:\CSharp\bbsOverlay\BreadBoardOverlay_v1\obj\Debug\BreadBoardOverlay_v1.csproj.CoreCompileInputs.cache
+E:\CSharp\bbsOverlay\BreadBoardOverlay_v1\obj\Debug\BreadBoardOverlay_v1.csproj.CopyComplete

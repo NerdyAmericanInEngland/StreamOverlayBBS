@@ -1,0 +1,16 @@
+0,E:\CSharp\bbsOverlay\BreadBoardOverlay_v1\gifs\bitch what!.gif,,-1,0,0
+1,E:\CSharp\bbsOverlay\BreadBoardOverlay_v1\gifs\break my foot off in ya ass!!!!.gif,,-1,0,25
+2,E:\CSharp\bbsOverlay\BreadBoardOverlay_v1\gifs\bug sqashing.gif,,-1,0,25
+3,E:\CSharp\bbsOverlay\BreadBoardOverlay_v1\gifs\codeWorking.gif,,-1,0,25
+4,E:\CSharp\bbsOverlay\BreadBoardOverlay_v1\gifs\confused.gif,,-1,0,25
+5,E:\CSharp\bbsOverlay\BreadBoardOverlay_v1\gifs\confused2.gif,,-1,0,25
+6,E:\CSharp\bbsOverlay\BreadBoardOverlay_v1\gifs\creepy kid dance.gif,,-1,0,25
+7,E:\CSharp\bbsOverlay\BreadBoardOverlay_v1\gifs\happy happy joy joy.gif,,-1,0,25
+8,E:\CSharp\bbsOverlay\BreadBoardOverlay_v1\gifs\imlearnding.gif,,-1,0,25
+9,E:\CSharp\bbsOverlay\BreadBoardOverlay_v1\gifs\shut down!!!.gif,,-1,0,25
+10,E:\CSharp\bbsOverlay\BreadBoardOverlay_v1\gifs\live news dance kid.gif,,-1,0,25
+11,E:\CSharp\bbsOverlay\BreadBoardOverlay_v1\gifs\old creepy raver.gif,,-1,0,25
+12,E:\CSharp\bbsOverlay\BreadBoardOverlay_v1\gifs\oldPeople.gif,,-1,0,25
+13,E:\CSharp\bbsOverlay\BreadBoardOverlay_v1\gifs\Ren and stimpy red button.gif,,-1,0,25
+14,E:\CSharp\bbsOverlay\BreadBoardOverlay_v1\gifs\shaq-shimmy.gif,,-1,0,25
+15,E:\CSharp\bbsOverlay\BreadBoardOverlay_v1\gifs\when life gets hard!!!.gif,,-1,0,25

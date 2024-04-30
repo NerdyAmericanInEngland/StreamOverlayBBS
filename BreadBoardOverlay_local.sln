@@ -1,0 +1,17 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BreadBoardOverlay_v1", "BreadBoardOverlay_v1\BreadBoardOverlay_v1.csproj", "{325B4CE0-92A2-4CCE-8081-AB555487F42B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{325B4CE0-92A2-4CCE-8081-AB555487F42B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{325B4CE0-92A2-4CCE-8081-AB555487F42B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{325B4CE0-92A2-4CCE-8081-AB555487F42B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{325B4CE0-92A2-4CCE-8081-AB555487F42B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{325B4CE0-92A2-4CCE-8081-AB555487F42B}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+	EndGlobalSection
+EndGlobal
