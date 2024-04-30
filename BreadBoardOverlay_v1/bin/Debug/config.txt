@@ -12,7 +12,7 @@
 11,E:\CSharp\bbsOverlay\BreadBoardOverlay_v1\gifs\old creepy raver.gif,E:\CSharp\bbsOverlay\BreadBoardOverlay_v1\audio\cheesey techno.wav,6,1,5
 12,E:\CSharp\bbsOverlay\BreadBoardOverlay_v1\gifs\oldPeople.gif,E:\CSharp\bbsOverlay\BreadBoardOverlay_v1\audio\oldladylaughing.wav,5,1,3
 13,E:\CSharp\bbsOverlay\BreadBoardOverlay_v1\gifs\Ren and stimpy red button.gif,E:\CSharp\bbsOverlay\BreadBoardOverlay_v1\audio\red button ren laugh.wav,-1,0,1
-14,E:\CSharp\bbsOverlay\BreadBoardOverlay_v1\gifs\shaq-shimmy.gif,E:\CSharp\bbsOverlay\BreadBoardOverlay_v1\audio\mmhmm.wav,3,1,2
+14,E:\CSharp\bbsOverlay\BreadBoardOverlay_v1\gifs\why.gif,E:\CSharp\bbsOverlay\BreadBoardOverlay_v1\audio\street fighter death.wav,3,1,2
 15,E:\CSharp\bbsOverlay\BreadBoardOverlay_v1\gifs\when life gets hard!!!.gif,E:\CSharp\bbsOverlay\BreadBoardOverlay_v1\audio\samson_hahaha.wav,14,0,4
 16,E:\CSharp\bbsOverlay\BreadBoardOverlay_v1\gifs\bush fool me once.gif,E:\CSharp\bbsOverlay\BreadBoardOverlay_v1\audio\bush fool me once.wav,2,1,1
 17,E:\CSharp\bbsOverlay\BreadBoardOverlay_v1\gifs\friends are assholes!!.gif,E:\CSharp\bbsOverlay\BreadBoardOverlay_v1\audio\friends are assholes.wav,1,1,3
