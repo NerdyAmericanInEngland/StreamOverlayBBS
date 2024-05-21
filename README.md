@@ -4,6 +4,8 @@ These are mappable to elgato stream decks, and will give you an little preview p
 There are 2 parts, the controller window, where you add interactions, and the actual overlay, which is invisible.
 It will trigger in the top left corner of the window, but this is mappable.
 The speed is a little funky, so it has to be manually adjusted.
+In it's current state, it should run fine as is, and is used in stream on our repair channel.
+I find it works best to have a single blank page up dedicated to overlay and use the built in buttons a little as possible.
 
 **Known Issues*
 This only affects you if you use more than one page of buttons(using the elgato page button)
